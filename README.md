@@ -14,6 +14,8 @@ https://github.com/sarthakpriyadarshi/DocumentAI-Backend
 ```
 ## Deployment
 
+It is deployed on [DocAI - DevSyn](https://docai.devsyn.tech/)
+
 To deploy this project run
 
 
